@@ -1,5 +1,5 @@
 [package]
-name = "robust_tokio_modbus"
+name = "robust-tokio-modbus"
 version = "0.1.0"
 edition = "2021"
 
