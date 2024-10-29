@@ -1,5 +1,6 @@
 [package]
 name = "robust-tokio-modbus"
+description = "tokio-modbus based robust modbus library"
 version = "0.1.0"
 edition = "2021"
 authors = ["Marc Freudenberg <freudenbergmarc@gmail.com"]
